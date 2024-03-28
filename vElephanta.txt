@@ -10,3 +10,6 @@ merging
 
 eng 1 pushing and creating pullrequst
 
+merged
+changed
+
